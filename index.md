@@ -16,7 +16,7 @@ A web-based informational app about various cars from several brands. Made with 
 [Link to Github Project](https://github.com/CG-SKYLN/Program.Project). 
 
 
-![SupercarStatsv1.0](https://github.com/cgrippa/Portfolio/blob/gh-pages/Images/v1.0Preview.png?raw=true)
+![SupercarStatsv1.0](https://github.com/cgrippa/Portfolio/blob/main/Images/v1.0Preview.png?raw=true)
 
 ## Processing Projects
 
@@ -25,41 +25,41 @@ A web-based informational app about various cars from several brands. Made with 
 An OOP space-themed shooter created in the Processing IDE during the winter of 2020.
 
 
-![SpaceGame](https://github.com/cgrippa/Portfolio/blob/gh-pages/Images/SpaceGamePreview.png?raw=true)
+![SpaceGame](https://github.com/cgrippa/Portfolio/blob/main/Images/SpaceGamePreview.png?raw=true)
 
-Source Code : [SpaceGame](https://github.com/cgrippa/Portfolio/tree/gh-pages/src/SpaceGame)       [SpaceGame.zip](https://github.com/cgrippa/Portfolio/blob/gh-pages/src/SpaceGame.zip)
+Source Code : [SpaceGame](https://github.com/cgrippa/Portfolio/tree/main/src/SpaceGame)       [SpaceGame.zip](https://github.com/cgrippa/Portfolio/blob/main/src/SpaceGame.zip)
 
 ### Calculator
 
 An OOP application written in the Processing IDE during the winter of 2020.
 
 
-![Calculator](https://github.com/cgrippa/Portfolio/blob/gh-pages/Images/CalculatorPreview.png?raw=true)
+![Calculator](https://github.com/cgrippa/Portfolio/blob/main/Images/CalculatorPreview.png?raw=true)
 
-Source Code : [Calculator](https://github.com/cgrippa/Portfolio/tree/gh-pages/src/Calculator)
+Source Code : [Calculator](https://github.com/cgrippa/Portfolio/tree/main/src/Calculator)
 
 ### History of the Computer
 
 An interactive timeline with facts about different types of computers throughout history. Made in the winter of 2020.
 
 
-![Timeline](https://github.com/cgrippa/Portfolio/blob/gh-pages/Images/Computer_History_Preview.png?raw=true)
+![Timeline](https://github.com/cgrippa/Portfolio/blob/main/Images/Computer_History_Preview.png?raw=true)
 
-Source Code : [History of the Computer](https://github.com/cgrippa/Portfolio/tree/gh-pages/src/ComputerTimeline)
+Source Code : [History of the Computer](https://github.com/cgrippa/Portfolio/tree/main/src/ComputerTimeline)
 
 ### Carz
 
 An OOP application of colorful, rectangle cars moving at random postitions and speeds. Written in the winter of 2020
 
 
-![Carz](https://raw.githubusercontent.com/cgrippa/Portfolio/gh-pages/Images/CarzPreview.png)
+![Carz](https://raw.githubusercontent.com/cgrippa/Portfolio/main/Images/CarzPreview.png)
 
-Source Code : [Carz](https://github.com/cgrippa/Portfolio/tree/gh-pages/src/Carz)
+Source Code : [Carz](https://github.com/cgrippa/Portfolio/tree/main/src/Carz)
 
 ### ScreenSaver
 
 An application that draws random lines across your entire screen. Written in the winter of 2020
 
-![ScreenSaver](https://raw.githubusercontent.com/cgrippa/Portfolio/gh-pages/Images/ScreenSaverPreview.png)
+![ScreenSaver](https://raw.githubusercontent.com/cgrippa/Portfolio/main/Images/ScreenSaverPreview.png)
 
-Source Code : [ScreenSaver](https://github.com/cgrippa/Portfolio/tree/gh-pages/src/ScreenSaver)
+Source Code : [ScreenSaver](https://github.com/cgrippa/Portfolio/tree/main/src/ScreenSaver)
