@@ -1,9 +1,11 @@
 # Caelan Grippa's Programming Portfolio (2020-2021)
 Bio : 
 
-[Email](mailto:caelgrip9624@granitesd.org)
+[Proffesional Email](mailto:caelan.grippa@gmail.com)
 
-[Secondary Email](mailto:hotronan1@gmail.com)
+[School Email](mailto:caelgrip9624@granitesd.org)
+
+[Personal Email](mailto:hotronan1@gmail.com)
 
 ## Javascript Projects
 
