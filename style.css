@@ -3,11 +3,13 @@ body{
  font-family: Optima, "Segoe UI", "Andale Mono", Sans-serif;
  overflow:auto;
 }
-a:visited{
+a:visited,a:hover{
 color:BLACK;
+ text-decoration:underline;
 }
 a:link{
-color:BLACK;
+color:#5759BD;
+ text-decoration:none;
 }
 
 
